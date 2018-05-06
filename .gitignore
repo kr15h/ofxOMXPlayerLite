@@ -1,0 +1,6 @@
+obj
+*._*
+!example-*/bin/data/.gitkeep
+example-*/bin/libs
+example-*/bin/example-*
+.DS_Store
